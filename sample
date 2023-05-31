@@ -1,1 +1,1 @@
-LAGS_ORDER_FILE=../../data/sample.csv yarn ts-node src/rent.ts
+LAGS_ORDER_FILE=../data/sample.csv yarn ts-node src/rent.ts

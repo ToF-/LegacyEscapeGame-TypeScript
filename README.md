@@ -6,7 +6,7 @@ you need `ts-jest` to test the thing
 
 `npm install --save-dev jest typescript ts-jest @types/jest`
 
-yon need yarn to compile and run
+you need `yarn` to setup, compile and run
 
 run the program on a sample: `./sample`
 
